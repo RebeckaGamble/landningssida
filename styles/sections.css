@@ -14,7 +14,7 @@
   text-align: center;
   min-height: 528px;
   padding: 144px 24px 36px;
-  background-image: url(/assets/images/hero.webp);
+  background-image: url("../assets/images/hero.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
